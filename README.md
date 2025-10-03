@@ -10,7 +10,7 @@ For demo purposes, it uses a **mock AI planner** so it can run completely free w
 
 - **Backend**: Node.js, Express, TypeScript  
 - **Frontend**: React, TypeScript  
-- **Tools**: Axios, CORS, dotenv
+- **Tools**: Axios, CORS
 
 ---
 
